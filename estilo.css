@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(7, 124, 7);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+h1:hover{
+    color: rgb(6, 171, 197);
+    text-shadow: 2px 2px 5px black ;
+}
+
+section{
+    background: rgb(6, 171, 197) ;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    text-align: center;
+}
+#cont{
+    color: white;
+    font-size: 14pt;
+    text-shadow: 1px 1px 5px black ;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 12pt;
+    padding: 15px;
+}
+footer p:hover{
+    color: rgb(6, 171, 197);
+    text-shadow: 2px 2px 5px black ;
+    font-size: 14pt;
+}
+
+select#flista{
+    width: 265px;
+    font-size: 11pt;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 100px;
+    padding-top: 6px;
+}
+#botaoAd{
+    font-size: 25px;
+    border-radius: 55px;
+    width: 39px;
+    border-color: rgb(74, 74, 74);
+}
+#botaoAd:hover{
+    background-color: rgb(4, 219, 4);
+    color: white;
+    text-shadow: 2px 2px 5px black ;
+    cursor: pointer;
+}
+#botaoFin{
+    font-size: 17px;
+    border-radius: 15px;
+    width: 100px;
+    border-color: rgb(74, 74, 74);
+}
+#botaoFin:hover{
+    background-color: rgb(4, 219, 4);
+    color: white;
+    text-shadow: 2px 2px 5px black ;
+    cursor: pointer;
+}
+#botaoLimp{
+    font-size: 17px;
+    border-radius: 15px;
+    width: 150px;
+    border-color: rgb(74, 74, 74);
+}
+#botaoLimp:hover{
+    background-color: rgb(4, 219, 4);
+    color: white;
+    text-shadow: 2px 2px 5px black ;
+    cursor: pointer;
+}
+input{
+    text-align: center;
+}
+#fnum{
+    width: 255px;
+}
+#res{
+    font-size: 13pt;
+    color: white;
+    text-shadow: 2px 2px 5px black ;
+}
